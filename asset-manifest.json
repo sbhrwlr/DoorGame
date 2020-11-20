@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/DoorGame/static/css/main.4c7a647c.chunk.css",
+    "main.js": "/DoorGame/static/js/main.bf704486.chunk.js",
+    "main.js.map": "/DoorGame/static/js/main.bf704486.chunk.js.map",
+    "runtime-main.js": "/DoorGame/static/js/runtime-main.520a3e13.js",
+    "runtime-main.js.map": "/DoorGame/static/js/runtime-main.520a3e13.js.map",
+    "static/js/2.3bf1594d.chunk.js": "/DoorGame/static/js/2.3bf1594d.chunk.js",
+    "static/js/2.3bf1594d.chunk.js.map": "/DoorGame/static/js/2.3bf1594d.chunk.js.map",
+    "static/js/3.f2560523.chunk.js": "/DoorGame/static/js/3.f2560523.chunk.js",
+    "static/js/3.f2560523.chunk.js.map": "/DoorGame/static/js/3.f2560523.chunk.js.map",
+    "index.html": "/DoorGame/index.html",
+    "static/css/main.4c7a647c.chunk.css.map": "/DoorGame/static/css/main.4c7a647c.chunk.css.map",
+    "static/js/2.3bf1594d.chunk.js.LICENSE.txt": "/DoorGame/static/js/2.3bf1594d.chunk.js.LICENSE.txt",
+    "static/media/Door.css": "/DoorGame/static/media/god.74024abd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.520a3e13.js",
+    "static/js/2.3bf1594d.chunk.js",
+    "static/css/main.4c7a647c.chunk.css",
+    "static/js/main.bf704486.chunk.js"
+  ]
+}
