@@ -1,0 +1,24 @@
+.game_details{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 100px;
+}
+.game_play{
+    width: 300px;
+    height: 200px;
+    width: 100%;
+    padding: 100px 100px;
+    display: flex;
+    justify-content: space-between;
+}
+.game_controls_reset{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+
+}
+.reset{
+    margin: 30px;
+    background-color: #6441A5;
+    cursor: pointer;
+}

@@ -1,0 +1,45 @@
+.game_play_door_good{
+    background-color: white;
+    background-image: url(../god.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    position:relative;
+    width:200px;
+    height:300px;
+    margin: 0 auto;
+    margin-top:50px;
+}
+
+.game_play_door_bad{
+    background-color: white;
+    background-image: url(../devil.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    position:relative;
+    width:200px;
+    height:300px;
+    margin: 0 auto;
+    margin-top:50px;
+}
+
+
+
+img{  
+    background-color: brown;
+    position:absolute;
+    top:0px;
+    left:0px;
+    width:200px;
+    height:300px;
+    transform-origin: left;
+    /*Speed of the Door animation*/
+    transition: all 0.5s ease-in-out;
+}
+
+.doorOpen
+{
+    left: 0;
+  /*prespectiv creates the door open effect*/
+  transform: perspective(1200px) translateZ(0px) translateX(0px) translateY(0px) rotateY(-105deg);
+}
+
